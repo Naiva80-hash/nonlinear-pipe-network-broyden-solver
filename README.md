@@ -75,6 +75,7 @@ pressure, while source and demand nodes are highlighted separately.
 
 ![Solved pipe network](figures/Results.png)
 
+![Solve pipe network seed = 25](figures/seed25.png)
 ## Technologies
 
 - Python
