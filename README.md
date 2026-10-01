@@ -73,7 +73,7 @@ The implementation was designed to solve networks containing approximately
 Solved networks are visualized as graphs in which node color represents
 pressure, while source and demand nodes are highlighted separately.
 
-![Solved pipe network](figures/)
+![Solved pipe network](figures/results.png)
 
 ## Technologies
 
